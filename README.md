@@ -1,5 +1,5 @@
 <p align="left"> 
-  Olá! Me chamo Guilherme, atualmente estou na graduação de ciências navais. Tenho interesse em programação e análise de dados com foco em finanças.  
+  Olá! Me chamo Guilherme, atualmente estou na graduação de ciências navais. Tenho interesse em programação e análise de dados com foco em finanças. Aberto a possibilidades para participar de projetos com o intuito de aprender mais e me desenvolver. 
 </p>
 
 <p align="left">
