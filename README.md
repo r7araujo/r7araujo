@@ -40,7 +40,7 @@ Atuo com Python e SQL para análise, automação de relatórios e apoio à tomad
 
 <p align="left">
 🇺🇸 <strong>English</strong><br>
-Hi, I’m Guilherme. I’m an undergraduate student in Naval Sciences at a military academy (Brazilian Naval Academy). In addition to Naval Sciences, I have a strong interest in data analysis applied to finance, risk, and compliance.
+Hi, I’m Guilherme. I’m an undergraduate student in Naval Sciences at Brazilian Naval Academy. In addition to Naval Sciences, I have a strong interest in data analysis applied to finance, risk, and compliance.
 I work with Python and SQL for data analysis, report automation, and decision support.
 </p>
 
